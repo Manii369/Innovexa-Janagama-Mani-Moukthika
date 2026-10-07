@@ -4,3 +4,7 @@ target/
 *.iml
 .vscode/
 .DS_Store
+
+# Secrets and private keys
+*.pem
+.env
